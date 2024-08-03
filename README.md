@@ -5,7 +5,7 @@ There are several ways to monitor the system performace on a Linux system.
 This includes console based applications like top, htop, free, df, and ps. 
 
 For graphical applications there are desktop based programs including 
-gnome-system-monitor, qjs (from LXQt), and plasma-systemmonitor.
+gnome-system-monitor, qps (from LXQt), and plasma-systemmonitor.
 
 The problem with the above programs is that they take up a lot of screen 
 real estate.  A grapical program that can run continuously but can be 

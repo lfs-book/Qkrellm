@@ -1,0 +1,4 @@
+sysmin-qt-2.0.1
+
+* Add installation to qmake project.  Thanks to Daniel Schepler.
+* Fix a minor typo in README.md.

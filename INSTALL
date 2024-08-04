@@ -11,9 +11,12 @@ qmake sysmon-qt.pro
 make
 
 Install the program (as the root user) with:
-cp sysmon-qt /usr/bin
-cp ../data/sysmon-qt.desktop /usr/share/applications/
-cp ../data/sysmon-qt.png     /usr/share/pixmaps/
+make install
+
+Three files are installed:
+/usr/bin/sysmon-qt
+/usr/share/applications/sysmon-qt.desktop
+/usr/share/pixmaps/sysmon-qt.png
 
 Notes:
 - Use F1 to configure sysmon-qt.

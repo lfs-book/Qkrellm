@@ -13,7 +13,7 @@ configured to use a small amount of screen space is GKrellM.
 See http://gkrellm.srcbox.net/
 
 GKrellM is a powerful application, but it no longer seems to be maintained.
-It is is gtk2 based and that has reached its end-of-life.  There have been
+It is gtk2 based and that has reached its end-of-life.  There have been
 no substantial changes to the program since 2016.
 
 sysmon-qt is a program similar to GKrellM but based on Qt5.  It does not

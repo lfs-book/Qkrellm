@@ -1,13 +1,12 @@
 The prerequisites for building sysmon-qt are:
 
-- Qt5 or qt-alternate (https://www.linuxfromscratch.org/blfs/view/stable/x/qt5-alternate.html)
+- Qt6 (https://linuxfromscratch.org/blfs/view/stable/x/qt6.html)
 - lm-sensors ( https://www.linuxfromscratch.org/blfs/view/stable/general/lm_sensors.html)
   Runtime to monitor temperatures.
 
 To build sysmon-qt run the following commands:
 
-cd src
-qmake sysmon-qt.pro
+qmake6 sysmon-qt.pro
 make
 
 Install the program (as the root user) with:

@@ -1,4 +1,7 @@
-sysmin-qt-2.0.1
+sysmon-qt-2.0.x
+* Updated INSTALL to reference Qt6 and the new way of building sysmon-qt.
+
+sysmon-qt-2.0.1
 
 * Add installation to qmake project.  Thanks to Daniel Schepler.
 * Fix a minor typo in README.md.
